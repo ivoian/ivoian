@@ -37,3 +37,10 @@ Passionate about technology, innovation, and digital transformation.
 ## Collaboration
 
 Open to collaborations on projects that combine technology, management, and innovation.
+
+---
+
+## Get in Touch
+
+- 📧 Email: [ianivo.pro@gmail.com](mailto:ianivo.pro@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ian-ivo-937489259/](https://www.linkedin.com/in/ian-ivo-937489259/)
