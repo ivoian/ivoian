@@ -42,5 +42,7 @@ Open to collaborations on projects that combine technology, management, and inno
 
 ## Get in Touch
 
-- 📧 Email: [ianivo.pro@gmail.com](mailto:ianivo.pro@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ian-ivo-937489259/](https://www.linkedin.com/in/ian-ivo-937489259/)
+[![Email](https://img.shields.io/badge/Email-ianivo.pro@gmail.com-red?logo=gmail&logoColor=white)](mailto:ianivo.pro@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ianivo-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianivo)  
+[![DIO](https://img.shields.io/badge/DIO-Profile-7B42BC?logo=azuredevops&logoColor=white)](https://web.dio.me/users/iancordeiroivo?tab=achievements)  
+
