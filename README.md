@@ -1,22 +1,20 @@
 # Hey There, I’m Ian 👋
 
 ## About Me
-I am an Information Systems student with a strong interest in Project Management, Data Science, and IT Strategy.  
-Passionate about technology, innovation, and digital transformation.
+I’m an Environmental Engineering student interested in data, technology, and environmental analysis.
 
+Exploring Python, data science, and digital solutions for environmental challenges.
 ---
 
 ## Currently Learning
-- Data Science and Analytics  
-- IT Strategy and Governance  
-- System Development and Software Engineering  
-
----
+Python and Data Analysis
+Environmental Data and Analytics
+Software Development
 
 ## Areas of Interest
-- EdTech and SaaS solutions  
-- Artificial Intelligence applications  
-- Digital transformation in organizations  
+Environmental Technology
+Data Science and Artificial Intelligence
+Sustainability and Digital Solutions
 
 ---
 
@@ -35,8 +33,7 @@ Passionate about technology, innovation, and digital transformation.
 ---
 
 ## Collaboration
-
-Open to collaborations on projects that combine technology, management, and innovation.
+Open to collaborating on projects involving environmental technology, data, and sustainability.
 
 ---
 
